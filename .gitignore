@@ -1,6 +1,8 @@
 # Ambiente Virtual
 venv/
 
+# Arquivo de configuração com dados sensíveis
+src/config.py
 
 # Arquivos temporários
 dados_originais_zip/
