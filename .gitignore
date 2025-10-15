@@ -1,0 +1,13 @@
+# Ambiente Virtual
+venv/
+
+#Arquivo config com dados pessoais
+src/config.py
+
+# Arquivos temporários
+dados_originais_zip/
+dados_extraidos_temp/
+
+# Cache
+__pycache__/
+*.pyc
